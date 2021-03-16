@@ -1,0 +1,15 @@
+f = open("url.txt", "w")
+f.write(" ")
+f.close()
+f = open("filtered.txt", "w")
+f.write(" ")
+f.close()
+f = open("final.txt", "w")
+f.write(" ")
+f.close()
+f = open("finished.txt", "w")
+f.write(" ")
+f.close()
+
+
+input("finished")
