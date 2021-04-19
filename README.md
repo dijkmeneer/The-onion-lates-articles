@@ -4,6 +4,7 @@ This scrapes the latest articles from the theonion website.
 
 Needed modules:
 bs4          
+
 requests                                                                                                                                                                            hashlib
 
 To install: py pip install <module name>
